@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19482384051",
+    "project_id": "number-7a13d",
+    "storage_bucket": "number-7a13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19482384051:android:28f9f351675b98c9c502c6",
+        "android_client_info": {
+          "package_name": "com.aryan.phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeDNdsxuU4MlvxygH4inGo1qjO-qtaLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
